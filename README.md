@@ -20,33 +20,26 @@ LLM backbone spends **>90%** of its compute on them. This list tracks methods th
 
 > **Legend** &nbsp;·&nbsp; Code: ✅ available · 🔒 not released
 
-## Contents
-
-- [2026](#2026)
-- [2025](#2025)
-- [Contributing](#-contributing)
-- [License](#-license)
-
 ## Papers
 
 ### 2026
 
 | Method | Title | Venue | Backbone | Code |
 |:---|:---|:---:|:---:|:---:|
-| **3DZip** | [Spatial-Aware Feature Diversity-Guided Token Compression for 3D QA](https://paper.pnu-cvsp.com/3DZip/) | ECCV&nbsp;2026 | LLaVA-3D · Video-3D&nbsp;LLM · SR-3D | [✅](https://github.com/cvsp-lab/3DZip) |
-| **CoverPrune** | [Coverage-Driven Token Pruning for 3D VLMs via Optimal Transport](https://arxiv.org/abs/2608.13226) | ECCV&nbsp;2026 <br><sub>Spotlight</sub> | GS-Reasoner · VLM-3R | 🔒 |
-| **Merge3D** | [Efficient 3D Multimodal LLMs via Joint 2D-3D Token Merging](https://cvpr.thecvf.com/virtual/2026/poster/38939) | CVPR&nbsp;2026 | Multi-view 3D&nbsp;MLLM | 🔒 |
-| **Geo3DPruner** | [Geometry-Guided 3D Visual Token Pruning for Video-Language Models](https://arxiv.org/abs/2604.18260) | CVPR&nbsp;2026 | Video-3D&nbsp;LLM (LLaVA-Video) | 🔒 |
-| **Efficient3D** | [A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs](https://github.com/sol924/Efficient3D) | CVPR&nbsp;2026 <br><sub>Findings</sub> | Chat-Scene | [✅](https://github.com/sol924/Efficient3D) |
-| **HCC-3D** | [Hierarchical Compensatory Compression for 98% 3D Token Reduction in VLMs](https://arxiv.org/abs/2511.09883) | AAAI&nbsp;2026 | GreenPLM (Phi-2/3) | [✅](https://github.com/lihengzhang02/HCC-3D) |
+| **3DZip** | [Spatial-Aware Feature Diversity-Guided Token Compression for 3D QA](https://paper.pnu-cvsp.com/3DZip/) <br><sub>Changwoo Baek et al.</sub> | ECCV&nbsp;2026 | LLaVA-3D · Video-3D&nbsp;LLM · SR-3D | [✅](https://github.com/cvsp-lab/3DZip) |
+| **CoverPrune** | [Coverage-Driven Token Pruning for 3D VLMs via Optimal Transport](https://arxiv.org/abs/2608.13226) <br><sub>Peng Ling et al.</sub> | ECCV&nbsp;2026 <br><sub>Spotlight</sub> | GS-Reasoner · VLM-3R | 🔒 |
+| **Merge3D** | [Efficient 3D Multimodal LLMs via Joint 2D-3D Token Merging](https://cvpr.thecvf.com/virtual/2026/poster/38939) <br><sub>Tianbo Pan et al.</sub> | CVPR&nbsp;2026 | Multi-view 3D&nbsp;MLLM | 🔒 |
+| **Geo3DPruner** | [Geometry-Guided 3D Visual Token Pruning for Video-Language Models](https://arxiv.org/abs/2604.18260) <br><sub>Han Li et al.</sub> | CVPR&nbsp;2026 | Video-3D&nbsp;LLM (LLaVA-Video) | 🔒 |
+| **Efficient3D** | [A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs](https://github.com/sol924/Efficient3D) <br><sub>Yuhui Lin et al.</sub> | CVPR&nbsp;2026 <br><sub>Findings</sub> | Chat-Scene | [✅](https://github.com/sol924/Efficient3D) |
+| **HCC-3D** | [Hierarchical Compensatory Compression for 98% 3D Token Reduction in VLMs](https://arxiv.org/abs/2511.09883) <br><sub>Liheng Zhang et al.</sub> | AAAI&nbsp;2026 | GreenPLM (Phi-2/3) | [✅](https://github.com/lihengzhang02/HCC-3D) |
 
 ### 2025
 
 | Method | Title | Venue | Backbone | Code |
 |:---|:---|:---:|:---:|:---:|
-| **Fast3D** | [Accelerating 3D Multi-modal LLMs for Efficient 3D Scene Understanding](https://arxiv.org/abs/2507.09334) | ACM&nbsp;MM&nbsp;2025 | Chat-Scene | [✅](https://github.com/wencan25/Fast3D) |
-| **AdaToken-3D** | [Dynamic Spatial Gating for Efficient 3D Large Multimodal-Models Reasoning](https://arxiv.org/abs/2505.12782) | IROS&nbsp;2025 | LLaVA-3D | 🔒 |
-| **DTC** | [Zero-shot 3D Question Answering via Voxel-based Dynamic Token Compression](https://cvpr.thecvf.com/virtual/2025/poster/33335) | CVPR&nbsp;2025 | Multi-frame VLM | 🔒 |
+| **Fast3D** | [Accelerating 3D Multi-modal LLMs for Efficient 3D Scene Understanding](https://arxiv.org/abs/2507.09334) <br><sub>Wencan Huang et al.</sub> | ACM&nbsp;MM&nbsp;2025 | Chat-Scene | [✅](https://github.com/wencan25/Fast3D) |
+| **AdaToken-3D** | [Dynamic Spatial Gating for Efficient 3D Large Multimodal-Models Reasoning](https://arxiv.org/abs/2505.12782) <br><sub>Kai Zhang et al.</sub> | IROS&nbsp;2025 | LLaVA-3D | 🔒 |
+| **DTC** | [Zero-shot 3D Question Answering via Voxel-based Dynamic Token Compression](https://cvpr.thecvf.com/virtual/2025/poster/33335) <br><sub>Hsiang-Wei Huang et al.</sub> | CVPR&nbsp;2025 | Multi-frame VLM | 🔒 |
 
 ## 🤝 Contributing
 
