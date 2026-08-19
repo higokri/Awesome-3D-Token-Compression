@@ -26,7 +26,7 @@ compress** those 3D visual tokens to make inference efficient without sacrificin
 
 | Method | Title | Venue | Applied to | Code |
 |:---|:---|:---:|:---:|:---:|
-| **3DZip** | [Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering](https://paper.pnu-cvsp.com/3DZip/) | ECCV 2026 | LLaVA-3D · Video-3D LLM · SR-3D | [✅](https://github.com/cvsp-lab/3DZip) |
+| **3DZip** | [Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering](https://paper.pnu-cvsp.com/3DZip/) | ECCV 2026 (Spotlight) | LLaVA-3D · Video-3D LLM · SR-3D | [✅](https://github.com/cvsp-lab/3DZip) |
 | **CoverPrune** | [Coverage-Driven Token Pruning for 3D VLMs via Optimal Transport](https://arxiv.org/abs/2608.13226) | ECCV 2026 (Oral) | GS-Reasoner · VLM-3R | 🔒 |
 | **Merge3D** | [Efficient 3D Multimodal LLMs via Joint 2D-3D Token Merging](https://cvpr.thecvf.com/virtual/2026/poster/38939) | CVPR 2026 | Multi-view 3D MLLM | 🔒 |
 | **Geo3DPruner** | [Geometry-Guided 3D Visual Token Pruning for Video-Language Models](https://arxiv.org/abs/2604.18260) | CVPR 2026 | Video-3D LLM (LLaVA-Video) | 🔒 |
