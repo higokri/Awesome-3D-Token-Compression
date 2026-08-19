@@ -6,7 +6,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-2f6fe0.svg?style=flat-square)](#-contributing)
 [![Last Commit](https://img.shields.io/github/last-commit/higokri/Awesome-3D-Token-Compression?style=flat-square&color=2f6fe0)](https://github.com/higokri/Awesome-3D-Token-Compression/commits)
-[![Stars](https://img.shields.io/github/stars/higokri/Awesome-3D-Token-Compression?style=flat-square&color=ffd33d)](https://github.com/higokri/Awesome-3D-Token-Compression/stargazers)
+[![Stars](https://img.shields.io/github/stars/higokri/Awesome-3D-Token-Compression?style=social)](https://github.com/higokri/Awesome-3D-Token-Compression/stargazers)
 
 <sub><i>Keywords: 3D token compression · 3D token pruning · 3D token reduction · 3D token merging · efficient 3D LLM · 3D VLM · 3D scene understanding</i></sub>
 
@@ -21,14 +21,14 @@ LLM backbone spends **>90%** of its compute on them. This list tracks methods th
 > [!IMPORTANT]
 > ⭐ **Found this useful?** Give it a star — it helps others discover the list and keeps it growing.
 >
-> Want your own work listed? Open an [issue](https://github.com/higokri/Awesome-3D-Token-Compression/issues/new) and we'll add it.
+> **Add your paper:** Open an [issue](https://github.com/higokri/Awesome-3D-Token-Compression/issues/new) and we'll add it.
 
 > **Legend** &nbsp;·&nbsp; Code: ✅ available · 🔒 not released
 
 ## 📰 News
 
-- **2026-08-19** — **Papers added:** CoverPrune (ECCV'26 Spotlight), Geo3DPruner, Efficient3D, HCC-3D, DTC.
-- **2026-08-19** — **Launch:** 🎉 Awesome 3D Token Compression is live!
+- **2026-08-19** — Added **CoverPrune** (ECCV'26 Spotlight), **Geo3DPruner**, **Efficient3D**, **HCC-3D**, and **DTC**.
+- **2026-08-19** — 🎉 Awesome 3D Token Compression is live!
 
 ## Papers
 
