@@ -27,8 +27,8 @@ LLM backbone spends **>90%** of its compute on them. This list tracks methods th
 
 ## 📰 News
 
-- **2026-08-19** — Added **CoverPrune** (ECCV'26 Spotlight), **Geo3DPruner**, **Efficient3D**, **HCC-3D**, and **DTC**.
-- **2026-08-19** — 🎉 Awesome 3D Token Compression is live!
+- **2026-08-19** — **Papers added:** CoverPrune (ECCV'26 Spotlight), Geo3DPruner, Efficient3D, HCC-3D, DTC.
+- **2026-08-19** — **Launch:** 🎉 Awesome 3D Token Compression is live!
 
 ## Papers
 
