@@ -24,30 +24,31 @@ LLM backbone spends **>90%** of its compute on them. This list tracks methods th
 
 ### 2026
 
-| Method | Title | Venue | Backbone | Code |
-|:---|:---|:---:|:---:|:---:|
-| **3DZip** | [Spatial-Aware Feature Diversity-Guided Token Compression for 3D QA](https://paper.pnu-cvsp.com/3DZip/) <br><sub>Changwoo Baek et al.</sub> | ECCV&nbsp;2026 | LLaVA-3D · Video-3D&nbsp;LLM · SR-3D | [✅](https://github.com/cvsp-lab/3DZip) |
-| **CoverPrune** | [Coverage-Driven Token Pruning for 3D VLMs via Optimal Transport](https://arxiv.org/abs/2608.13226) <br><sub>Peng Ling et al.</sub> | ECCV&nbsp;2026 <br><sub>Spotlight</sub> | GS-Reasoner · VLM-3R | 🔒 |
-| **Merge3D** | [Efficient 3D Multimodal LLMs via Joint 2D-3D Token Merging](https://cvpr.thecvf.com/virtual/2026/poster/38939) <br><sub>Tianbo Pan et al.</sub> | CVPR&nbsp;2026 | Multi-view 3D&nbsp;MLLM | 🔒 |
-| **Geo3DPruner** | [Geometry-Guided 3D Visual Token Pruning for Video-Language Models](https://arxiv.org/abs/2604.18260) <br><sub>Han Li et al.</sub> | CVPR&nbsp;2026 | Video-3D&nbsp;LLM (LLaVA-Video) | 🔒 |
-| **Efficient3D** | [A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs](https://github.com/sol924/Efficient3D) <br><sub>Yuhui Lin et al.</sub> | CVPR&nbsp;2026 <br><sub>Findings</sub> | Chat-Scene | [✅](https://github.com/sol924/Efficient3D) |
-| **HCC-3D** | [Hierarchical Compensatory Compression for 98% 3D Token Reduction in VLMs](https://arxiv.org/abs/2511.09883) <br><sub>Liheng Zhang et al.</sub> | AAAI&nbsp;2026 | GreenPLM (Phi-2/3) | [✅](https://github.com/lihengzhang02/HCC-3D) |
+| Method | Title & Authors | Backbone | Code |
+|:---|:---|:---:|:---:|
+| **3DZip** | ![ECCV 2026](https://img.shields.io/badge/ECCV-2026-blue) <br>[Spatial-Aware Feature Diversity-Guided Token Compression for 3D QA](https://paper.pnu-cvsp.com/3DZip/) <br><sub>Changwoo Baek et al.</sub> | LLaVA-3D · Video-3D&nbsp;LLM · SR-3D | [✅](https://github.com/cvsp-lab/3DZip) |
+| **CoverPrune** | ![ECCV 2026](https://img.shields.io/badge/ECCV-2026-blue) ![Spotlight](https://img.shields.io/badge/Spotlight-e0a800) <br>[Coverage-Driven Token Pruning for 3D VLMs via Optimal Transport](https://arxiv.org/abs/2608.13226) <br><sub>Peng Ling et al.</sub> | GS-Reasoner · VLM-3R | 🔒 |
+| **Merge3D** | ![CVPR 2026](https://img.shields.io/badge/CVPR-2026-blue) <br>[Efficient 3D Multimodal LLMs via Joint 2D-3D Token Merging](https://cvpr.thecvf.com/virtual/2026/poster/38939) <br><sub>Tianbo Pan et al.</sub> | Multi-view 3D&nbsp;MLLM | 🔒 |
+| **Geo3DPruner** | ![CVPR 2026](https://img.shields.io/badge/CVPR-2026-blue) <br>[Geometry-Guided 3D Visual Token Pruning for Video-Language Models](https://arxiv.org/abs/2604.18260) <br><sub>Han Li et al.</sub> | Video-3D&nbsp;LLM (LLaVA-Video) | 🔒 |
+| **Efficient3D** | ![CVPR 2026](https://img.shields.io/badge/CVPR-2026-blue) ![Findings](https://img.shields.io/badge/Findings-lightgrey) <br>[A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs](https://github.com/sol924/Efficient3D) <br><sub>Yuhui Lin et al.</sub> | Chat-Scene | [✅](https://github.com/sol924/Efficient3D) |
+| **HCC-3D** | ![AAAI 2026](https://img.shields.io/badge/AAAI-2026-blue) <br>[Hierarchical Compensatory Compression for 98% 3D Token Reduction in VLMs](https://arxiv.org/abs/2511.09883) <br><sub>Liheng Zhang et al.</sub> | GreenPLM (Phi-2/3) | [✅](https://github.com/lihengzhang02/HCC-3D) |
 
 ### 2025
 
-| Method | Title | Venue | Backbone | Code |
-|:---|:---|:---:|:---:|:---:|
-| **Fast3D** | [Accelerating 3D Multi-modal LLMs for Efficient 3D Scene Understanding](https://arxiv.org/abs/2507.09334) <br><sub>Wencan Huang et al.</sub> | ACM&nbsp;MM&nbsp;2025 | Chat-Scene | [✅](https://github.com/wencan25/Fast3D) |
-| **AdaToken-3D** | [Dynamic Spatial Gating for Efficient 3D Large Multimodal-Models Reasoning](https://arxiv.org/abs/2505.12782) <br><sub>Kai Zhang et al.</sub> | IROS&nbsp;2025 | LLaVA-3D | 🔒 |
-| **DTC** | [Zero-shot 3D Question Answering via Voxel-based Dynamic Token Compression](https://cvpr.thecvf.com/virtual/2025/poster/33335) <br><sub>Hsiang-Wei Huang et al.</sub> | CVPR&nbsp;2025 | Multi-frame VLM | 🔒 |
+| Method | Title & Authors | Backbone | Code |
+|:---|:---|:---:|:---:|
+| **Fast3D** | ![ACM MM 2025](https://img.shields.io/badge/ACM_MM-2025-blue) <br>[Accelerating 3D Multi-modal LLMs for Efficient 3D Scene Understanding](https://arxiv.org/abs/2507.09334) <br><sub>Wencan Huang et al.</sub> | Chat-Scene | [✅](https://github.com/wencan25/Fast3D) |
+| **AdaToken-3D** | ![IROS 2025](https://img.shields.io/badge/IROS-2025-blue) <br>[Dynamic Spatial Gating for Efficient 3D Large Multimodal-Models Reasoning](https://arxiv.org/abs/2505.12782) <br><sub>Kai Zhang et al.</sub> | LLaVA-3D | 🔒 |
+| **DTC** | ![CVPR 2025](https://img.shields.io/badge/CVPR-2025-blue) <br>[Zero-shot 3D Question Answering via Voxel-based Dynamic Token Compression](https://cvpr.thecvf.com/virtual/2025/poster/33335) <br><sub>Hsiang-Wei Huang et al.</sub> | Multi-frame VLM | 🔒 |
 
 ## 🤝 Contributing
 
 Contributions are very welcome! To add a paper, open a PR that:
 
 1. Places the entry in the correct **year** section, sorted by **venue date (newest first)**.
-2. Follows the row format: `**Method** | [Title](link) | Venue | Backbone | Code`.
-3. Links code with ✅ (or marks 🔒 if unreleased).
+2. Follows the row format: `**Method** | venue badge + [Title](link) + authors | Backbone | Code`.
+3. Adds a **venue badge** via [shields.io](https://shields.io) (e.g. `![](https://img.shields.io/badge/CVPR-2026-blue)`); use `![](https://img.shields.io/badge/arXiv-b31b1b)` if the paper has no venue yet.
+4. Links code with ✅ (or marks 🔒 if unreleased).
 
 ## 📄 License
 
