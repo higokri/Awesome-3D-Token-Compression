@@ -24,18 +24,19 @@ compress** those 3D visual tokens to make inference efficient without sacrificin
 
 ## 📚 Papers
 
-| Method | Title | Venue | Code |
-|:---|:---|:---:|:---:|
-| **3DZip** | [Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering](https://paper.pnu-cvsp.com/3DZip/) | ECCV 2026 | [✅](https://github.com/cvsp-lab/3DZip) |
-| **Merge3D** | [Efficient 3D Multimodal LLMs via Joint 2D-3D Token Merging](https://cvpr.thecvf.com/virtual/2026/poster/38939) | CVPR 2026 | 🔒 |
-| **Fast3D** | [Accelerating 3D Multi-modal Large Language Models for Efficient 3D Scene Understanding](https://arxiv.org/abs/2507.09334) | ACM MM 2025 | [✅](https://github.com/wencan25/Fast3D) |
-| **AdaToken-3D** | [Dynamic Spatial Gating for Efficient 3D Large Multimodal-Models Reasoning](https://arxiv.org/abs/2505.12782) | Preprint | 🔒 |
-| **HCC-3D** | [Hierarchical Compensatory Compression for 98% 3D Token Reduction in Vision-Language Models](https://arxiv.org/abs/2511.09883) | Preprint | 🔒 |
+| Method | Title | Venue | Applied to | Code |
+|:---|:---|:---:|:---:|:---:|
+| **3DZip** | [Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering](https://paper.pnu-cvsp.com/3DZip/) | ECCV 2026 | LLaVA-3D | [✅](https://github.com/cvsp-lab/3DZip) |
+| **CoverPrune** | [Coverage-Driven Token Pruning for 3D VLMs via Optimal Transport](https://arxiv.org/abs/2608.13226) | ECCV 2026 (Oral) | GS-Reasoner · VLM-3R | [✅](https://github.com/Brucess/CoverPrune) |
+| **Merge3D** | [Efficient 3D Multimodal LLMs via Joint 2D-3D Token Merging](https://cvpr.thecvf.com/virtual/2026/poster/38939) | CVPR 2026 | Multi-view 3D MLLM | 🔒 |
+| **AdaToken-3D** | [Dynamic Spatial Gating for Efficient 3D Large Multimodal-Models Reasoning](https://arxiv.org/abs/2505.12782) | AAAI 2026 | LLaVA-3D | 🔒 |
+| **Fast3D** | [Accelerating 3D Multi-modal Large Language Models for Efficient 3D Scene Understanding](https://arxiv.org/abs/2507.09334) | ACM MM 2025 | Chat-Scene | [✅](https://github.com/wencan25/Fast3D) |
+| **HCC-3D** | [Hierarchical Compensatory Compression for 98% 3D Token Reduction in Vision-Language Models](https://arxiv.org/abs/2511.09883) | Preprint | GreenPLM (Phi-2/3) | 🔒 |
 
 ## 🤝 Contributing
 
 Found a missing paper? PRs are welcome — please keep the table sorted by venue date (newest first) and follow the
-existing format: `Method | Title (linked) | Venue | Code`.
+existing format: `Method | Title (linked) | Venue | Applied to | Code`.
 
 ## 📄 License
 
