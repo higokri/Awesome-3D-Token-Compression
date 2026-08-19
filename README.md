@@ -18,9 +18,15 @@
 LLM backbone spends **>90%** of its compute on them. This list tracks methods that **prune, merge, or compress** those
 3D visual tokens to make inference efficient **without sacrificing spatial understanding**.
 
-> ⭐ **Found this useful?** Give it a star — it helps others discover the list and keeps it growing. New paper? [PRs welcome!](#-contributing)
+> [!IMPORTANT]
+> ⭐ **Found this useful?** Give it a star — it helps others discover the list and keeps it growing.
 
 > **Legend** &nbsp;·&nbsp; Code: ✅ available · 🔒 not released
+
+## 📰 News
+
+- **2026-08** — Added **CoverPrune** (ECCV'26 Spotlight), **Geo3DPruner**, **Efficient3D**, **HCC-3D**, and **DTC**.
+- **2026-08** — 🎉 Awesome 3D Token Compression is live!
 
 ## Papers
 
