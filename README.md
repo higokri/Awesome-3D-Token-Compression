@@ -18,6 +18,8 @@
 LLM backbone spends **>90%** of its compute on them. This list tracks methods that **prune, merge, or compress** those
 3D visual tokens to make inference efficient **without sacrificing spatial understanding**.
 
+> ⭐ **Found this useful?** Give it a star — it helps others discover the list and keeps it growing. New paper? [PRs welcome!](#-contributing)
+
 > **Legend** &nbsp;·&nbsp; Code: ✅ available · 🔒 not released
 
 ## Papers
