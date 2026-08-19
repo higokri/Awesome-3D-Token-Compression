@@ -20,13 +20,13 @@
 and the LLM backbone spends **>90%** of its compute on them. This list collects methods that **prune, merge, or
 compress** those 3D visual tokens to make inference efficient without sacrificing spatial understanding.
 
-**Legend** — ✅ code available · 🔒 code not released · ⭐ our work
+**Legend** — ✅ code available · 🔒 code not released
 
 ## 📚 Papers
 
 | Method | Title | Venue | Code |
 |:---|:---|:---:|:---:|
-| **3DZip** ⭐ | [Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering](https://paper.pnu-cvsp.com/3DZip/) | ECCV 2026 | [✅](https://github.com/cvsp-lab/3DZip) |
+| **3DZip** | [Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering](https://paper.pnu-cvsp.com/3DZip/) | ECCV 2026 | [✅](https://github.com/cvsp-lab/3DZip) |
 | **Merge3D** | [Efficient 3D Multimodal LLMs via Joint 2D-3D Token Merging](https://cvpr.thecvf.com/virtual/2026/poster/38939) | CVPR 2026 | 🔒 |
 | **Fast3D** | [Accelerating 3D Multi-modal Large Language Models for Efficient 3D Scene Understanding](https://arxiv.org/abs/2507.09334) | ACM MM 2025 | [✅](https://github.com/wencan25/Fast3D) |
 | **AdaToken-3D** | [Dynamic Spatial Gating for Efficient 3D Large Multimodal-Models Reasoning](https://arxiv.org/abs/2505.12782) | Preprint | 🔒 |
