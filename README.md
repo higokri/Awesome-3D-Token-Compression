@@ -21,7 +21,7 @@ LLM backbone spends **>90%** of its compute on them. This list tracks methods th
 > [!IMPORTANT]
 > ⭐ **Found this useful?** Give it a star — it helps others discover the list and keeps it growing.
 >
-> **Add your paper:** Open an [issue](https://github.com/higokri/Awesome-3D-Token-Compression/issues/new) and we'll add it.
+> 📝 **Add your paper:** Open an [issue](https://github.com/higokri/Awesome-3D-Token-Compression/issues/new) and we'll add it.
 
 > **Legend** &nbsp;·&nbsp; Code: ✅ available · 🔒 not released
 
