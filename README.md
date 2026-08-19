@@ -1,7 +1,11 @@
-<h1 align="center">Awesome 3D Token Pruning <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></h1>
+<h1 align="center">Awesome 3D Token Compression <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></h1>
 
 <p align="center">
-  A curated list of <b>token pruning / compression</b> methods for <b>3D multimodal LLMs</b> ⚡🧊
+  A curated list of <b>3D token compression</b> methods — <b>token pruning · reduction · merging</b> — for <b>3D multimodal LLMs</b> ⚡🧊
+</p>
+
+<p align="center">
+  <sub><i>Keywords: 3D token compression · 3D token pruning · 3D token reduction · 3D token merging · efficient 3D LLM · 3D VLM · 3D scene understanding</i></sub>
 </p>
 
 <p align="center">
